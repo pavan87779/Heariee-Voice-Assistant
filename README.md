@@ -18,15 +18,11 @@ It listens to your voice commands and responds smartly — playing music, answer
 🖥️ Clean Tkinter GUI with Scrollable Output and Status Feedback
 
 
-🗣️ Powered by:
-- **Speech Recognition**
-- **Text-to-Speech (TTS)**
-- **YouTube integration**
-- **Wikipedia**
-- **Jokes**
-- **GUI with Tkinter**
+## 📸 Demo Video
 
----
+👉 [Watch Demo on Google Drive](https://drive.google.com/file/d/1a6NxO0i72X-Ax8jyik7hwQ1r8WL1N9Lf/view?usp=drivesdk)
+
+----------------------------------------
 🧪 Tech Stack
 Python 3.10+
 
@@ -44,9 +40,16 @@ pyjokes – Random programming jokes
 
 threading – For running voice logic without freezing GUI
 
----
+----------------------------------------------
 
 ## 📸 Demo Video
 
 👉 [Watch Demo on Google Drive](https://drive.google.com/file/d/1a6NxO0i72X-Ax8jyik7hwQ1r8WL1N9Lf/view?usp=drivesdk)
+
+
+
+🙋‍♂️ About Me
+Built with ❤️ by Pavan Babu – [Connect on LinkedIn](https://www.linkedin.com/in/pavan-babu-goulikar-577018262)
+
+
 
