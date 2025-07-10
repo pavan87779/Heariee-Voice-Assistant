@@ -4,6 +4,19 @@
 
 **Heariee** is a fun, interactive **desktop voice assistant** built with Python.  
 It listens to your voice commands and responds smartly — playing music, answering questions, telling jokes, and more.
+🚀 Features
+🎤 Voice Recognition
+🎧 Text-to-Speech (TTS)
+⏰ Tells Current Time
+📺 Plays Songs or Videos on YouTube
+📚 Answers "Who is..." queries using Wikipedia
+🤣 Tells Developer Jokes using pyjokes
+🧑 Special Command for "Who is Pavan Babu"
+🌐 Opens Chrome Browser
+💻 Launches VS Code
+🔁 Threaded Execution to Keep GUI Responsive
+🖥️ Clean Tkinter GUI with Scrollable Output and Status Feedback
+
 
 🗣️ Powered by:
 - **Speech Recognition**
@@ -14,22 +27,26 @@ It listens to your voice commands and responds smartly — playing music, answer
 - **GUI with Tkinter**
 
 ---
+🧪 Tech Stack
+Python 3.10+
 
-## 🧠 Features
+Tkinter – GUI
 
-- 🎧 Voice Command Recognition (via mic)
-- 🗣️ Speaks responses back to you
-- ⏰ Tells the current time
-- 📺 Plays songs on YouTube
-- 📖 Answers "Who is..." questions using Wikipedia
-- 🤣 Tells developer jokes
-- 🧑 Special command for `"Who is uday codes"`
-- 🚀 Opens Chrome, VS Code, or exits the app
-- 💻 User-friendly GUI with buttons and visual output
+pyttsx3 – Offline Text-to-Speech
+
+speech_recognition – For microphone input
+
+pywhatkit – YouTube song search
+
+wikipedia – Info lookup
+
+pyjokes – Random programming jokes
+
+threading – For running voice logic without freezing GUI
 
 ---
 
 ## 📸 Demo Video
 
-[![Watch Demo](https://img.shields.io/badge/Watch%20Demo-%F0%9F%93%BA-blue)](https://your-demo-link.com)
+👉 [Watch Demo on Google Drive](https://drive.google.com/file/d/1a6NxO0i72X-Ax8jyik7hwQ1r8WL1N9Lf/view?usp=drivesdk)
 
